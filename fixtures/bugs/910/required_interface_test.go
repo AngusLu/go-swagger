@@ -5,9 +5,9 @@ package main
 import (
 	"testing"
 
+	"github.com/AngusLu/go-swagger/fixtures/bugs/910/gen-fixture-910/models"
 	"github.com/go-openapi/strfmt"
 	"github.com/go-openapi/swag"
-	"github.com/go-swagger/go-swagger/fixtures/bugs/910/gen-fixture-910/models"
 	"github.com/stretchr/testify/assert"
 )
 
